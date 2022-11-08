@@ -15,3 +15,5 @@ This page gather those little tips and tricks that friends and coleagues showed 
     tricks_git/README.md
 
 ```
+
+This page is built thanks to [this github action](https://github.com/marketplace/actions/sphinx-build)
